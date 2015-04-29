@@ -1,3 +1,5 @@
+//Jack did this borrowing Bryan's code
+
 var Cloud = require('ti.cloud');
 Cloud.debug = true;
 
